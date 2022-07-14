@@ -5,7 +5,7 @@
       "setup": "",
       "run": "python sources/hello.py",
       "input": "",
-      "output": "Hello",
+      "output": "hello",
       "comparison": "included",
       "timeout": 10,
       "points": 1
