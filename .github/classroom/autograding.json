@@ -3,7 +3,7 @@
     {
       "name": "hello",
       "setup": "",
-      "run": "python /sources/hello.py",
+      "run": "python sources/hello.py",
       "input": "",
       "output": "Hello",
       "comparison": "included",
@@ -13,7 +13,7 @@
     {
       "name": "hello_name",
       "setup": "",
-      "run": "python /sources/hello_name.py",
+      "run": "python sources/hello_name.py",
       "input": "John",
       "output": "Hello John ",
       "comparison": "included",
